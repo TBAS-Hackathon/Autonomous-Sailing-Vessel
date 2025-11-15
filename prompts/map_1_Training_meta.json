@@ -1,0 +1,10 @@
+{
+  "name":"Training",
+  "startPos":[30,1],
+  "finishPos":[1,15],
+  "rows":30,
+  "cols":30,
+  "angles_are_degrees":true,
+  "windDir_is_TO_direction":true,
+  "headings_allowed_deg":[0,60,120,180,240,300]
+}

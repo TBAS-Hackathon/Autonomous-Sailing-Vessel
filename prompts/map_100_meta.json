@@ -1,0 +1,23 @@
+{
+  "name": "Generated100",
+  "startPos": [
+    100,
+    1
+  ],
+  "finishPos": [
+    1,
+    50
+  ],
+  "rows": 100,
+  "cols": 100,
+  "angles_are_degrees": true,
+  "windDir_is_TO_direction": true,
+  "headings_allowed_deg": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ]
+}
