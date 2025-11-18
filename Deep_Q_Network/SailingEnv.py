@@ -7,7 +7,6 @@ import torch.nn as nn
 import torch.nn.functional as F 
 import torch.optim as optim 
 from collections import deque
-from SailingEnv import SailingEnv
 
 # AI generated code to set up agent testing and the gym environment
 # -----------------------------------------------------------------
